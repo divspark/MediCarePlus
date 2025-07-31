@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Slider Styles */
+.doctor-slider .slick-track {
+  display: flex;
+  align-items: center;
+}
+
+.doctor-slider .slick-slide {
+  height: auto;
+}
+
+.doctor-slider .slick-slide > div {
+  height: 100%;
+}
+
+.testimonial-slider .slick-dots {
+  bottom: -50px;
+}
+
+.testimonial-slider .slick-dots li button:before {
+  color: #3B82F6;
+  font-size: 12px;
+}
+
+.testimonial-slider .slick-dots li.slick-active button:before {
+  color: #1D4ED8;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .doctor-slider .slick-track {
+    margin-left: 0;
+  }
+}

@@ -65,29 +65,12 @@ A comprehensive **web-based platform** to manage all aspects of hospital operati
    cd hospital-management
    ```
 
-2. **Backend Setup**
-
-   ```bash
-   cd backend
-   npm install
-   npm run dev
-   ```
-
-3. **Frontend Setup**
+2. **Frontend Setup**
 
    ```bash
    cd frontend
    npm install
-   npm start
-   ```
-
-4. **Environment Variables**
-   Create `.env` files in both `frontend` and `backend` with:
-
-   ```
-   DATABASE_URL=your_database_url
-   JWT_SECRET=your_secret_key
-   CLOUDINARY_API_KEY=your_cloudinary_key
+   npm run dev
    ```
 
 ---

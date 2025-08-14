@@ -7,7 +7,6 @@
 
 A comprehensive **web-based platform** to manage all aspects of hospital operations — from **doctor details** to **department and ward management**, along with **specialized care** for different medical conditions. This system ensures smooth administration, better patient experience, and centralized record management.
 
----
 
 ## Features
 
@@ -43,7 +42,6 @@ A comprehensive **web-based platform** to manage all aspects of hospital operati
 * Centralized dashboard for hospital statistics
 * Responsive design for mobile and desktop
 
----
 
 ## Tech Stack
 
@@ -54,7 +52,6 @@ A comprehensive **web-based platform** to manage all aspects of hospital operati
 * Typescript
 * Axios for API requests
 
----
 
 ## Installation & Setup
 

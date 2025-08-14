@@ -73,7 +73,6 @@ A comprehensive **web-based platform** to manage all aspects of hospital operati
    npm run dev
    ```
 
----
 
 ## Roles & Permissions
 
@@ -83,7 +82,6 @@ A comprehensive **web-based platform** to manage all aspects of hospital operati
 | Doctor | Manage patient records, view schedules, update availability     |
 | Staff  | Update ward status, assist in patient allocation                |
 
----
 
 ## Future Enhancements
 
@@ -93,4 +91,3 @@ A comprehensive **web-based platform** to manage all aspects of hospital operati
 * Hospital billing system
 * AI-based patient record analysis
 
----

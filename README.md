@@ -111,6 +111,3 @@ A comprehensive **web-based platform** to manage all aspects of hospital operati
 * AI-based patient record analysis
 
 ---
-
-If you want, I can also prepare **sample data JSON** for doctors, departments, and wards so your frontend can display dummy information during development.
-Would you like me to create that?
